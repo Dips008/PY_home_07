@@ -1,10 +1,9 @@
 import in_spr
 import out_spr
-import sort
 
 
 def start():
-    i = 0
+    i = 1
     while i:
         print('Сделайте выбор:')
         print('1 - внести новую запись в справочник')
